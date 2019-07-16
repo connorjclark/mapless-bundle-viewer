@@ -1,0 +1,13 @@
+{
+  "name": "mapless-bundle-viewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "acorn-node": "^1.7.0",
+    "glob": "^7.1.4"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
